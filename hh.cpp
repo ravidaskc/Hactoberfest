@@ -8,7 +8,7 @@ cout<<"Hello "<<endl<<"Hactoberfest";
 cout<<"Hello Hactoberfest";
   cout<<endl<<"Hello Hactoberfest";
   cout<<"Welcome to the new world";
-  cout<<"Enjoy";
+  cout<<"Enjoy the world";
 
 return 0;
 }
